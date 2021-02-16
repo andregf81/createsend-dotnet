@@ -13,6 +13,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <DefineConstants>SUPPORTED_FRAMEWORK_VERSION</DefineConstants>
+    <SignAssembly>true</SignAssembly>
   </PropertyGroup>
   <ItemGroup>
 	<None Remove="packages.config" />
